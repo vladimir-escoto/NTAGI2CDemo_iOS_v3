@@ -1,0 +1,60 @@
+﻿----------------------------------------------------------------------------------------
+NXP Software Content Register
+
+Package:            NTAG I2C plus Explorerkit Demo package
+Outgoing License:   NFC Infrastructure Software License and Distribution Agreement
+License File:       ./NFC_Infrastructure_SLDA.pdf
+Type of content:    Binary
+Version:            1.0
+----------------------------------------------------------------------------------------
+
+This is the top-level installation directory for NTAG I2C plus Explorerkit Demo package.
+NTAG I2C plus Explorerkit Demo package is owned by NXP B.V.
+
+As detailed in the Software Content Register below, NTAG I2C plus Explorerkit Demo package
+comprises NXP copyrighted files and components provided by third parties. 
+NXP copyrighted files are licensed under the terms of the NXP B.V. proprietary license
+associated with this distribution (see NFC_Infrastructure_SLDA.pdf).
+
+
+
+Software Content Register
+----------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------
+Project:  NTAG I2C plus Explorerkit Demo iOS Application
+Format:   Binary
+Location: ./NTAG I2C plus Explorerkit Demo
+----------------------------------------------------------------------------------------
+
+Component:		Source code for NTAG I2C plus Explorerkit Demo iOS Application
+Version:		1.0
+Home Page:		http://www.nxp.com
+License:		NFC Infrastructure Software License and Distribution Agreement
+License file:           ./NFC_Infrastructure_SLDA.pdf
+
+----------------------------------------------------------------------------------------
+Project:  NTAG I2C plus Explorerkit Demo iOS Application
+Format:   Binary
+Location: ./NTAG I2C plus Explorerkit Demo
+----------------------------------------------------------------------------------------
+
+Component:		DLRadioButton
+Version:		1.0
+Home Page:		https://github.com/DavydLiu/DLRadioButton
+License:		MIT
+License file:           .\External Libraries\DLRadioButton\
+
+----------------------------------------------------------------------------------------
+Project:  NTAG I2C plus Explorerkit Demo iOS Application
+Format:   Binary
+Location: ./NTAG I2C plus Explorerkit Demo
+----------------------------------------------------------------------------------------
+
+Component:		NSData+FastHex
+Version:		1.0
+Home Page:		https://github.com/jmah/NSData-FastHex
+License:		MIT
+License file:           .\NTAGI2CDemo\External Libraries\NSData+FastHex
+
+
